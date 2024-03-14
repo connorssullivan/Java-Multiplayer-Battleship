@@ -1,0 +1,24 @@
+Connors To Do List
+
+
+MAIN FUNCTIONALITY
+Set Up Ships: GOOD
+Set Up BattleShip Board: GOOD
+Set Up game Window: GOOD
+Allow user to change ship: GOOD
+Allow User to place ship: Good
+Implement random Placment: GOOD
+implement Shot Firing: GOOD
+Get Server and client communicating: GOOD
+Send Board across Network: GOOD
+Drag and drop Placment:
+
+Dragable Ship Placment:
+
+
+GLITCH STATUS
+Shots Not communicating: FIXED, by updating shots in mouse clicked function
+Boats Can randomply  place on top of eachother: FIXED, by updating panels in battleship board class
+If first SHot is a hit board doesnt reconize:
+If clicked previous shot, the shot turns back to white:
+
