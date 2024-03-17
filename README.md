@@ -1,6 +1,6 @@
 # Battleship Java Swing
  
-[Screen Recording 2024-03-17 at 5.04.07 PM.mov](..%2F..%2FScreen%20Recording%202024-03-17%20at%205.04.07%20PM.mov)
+![battleshipDemo.gif](..%2F..%2F..%2FDownloads%2FbattleshipDemo.gif)
 
 ## Introduction 
 ***
