@@ -18,7 +18,7 @@ This is a Java implementation of the classic Battleship game. It features a grap
 * Custom Sound effects
 ***
 
-## Instructions
+## Documentation
 ***
 1. Download the src package
 2. Install >= Java 17
