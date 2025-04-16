@@ -1,6 +1,7 @@
 # Battleship Java Swing
  
-![battleshipDemo](https://github.com/connorssullivan/Java-Multiplayer-Battleship/assets/97367985/565a2283-7989-403d-9c23-a7f7f4486a84)
+![battleshipDemo](https://github.com/user-attachments/assets/d1e973f4-6c1b-45cb-a175-df3b5b615204)
+
 
 ## Introduction 
 ***
